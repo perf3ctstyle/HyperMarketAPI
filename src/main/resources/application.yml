@@ -6,7 +6,7 @@ spring:
   application:
     name: hypermarketapi
   datasource:
-    url: jdbc:h2://localhost:9999/hypermarketapi
+    url: jdbc:h2:mem://localhost:8082/hypermarketapi
     username: user
     password: p@ssw0rd
     driverClassName: org.h2.Driver
