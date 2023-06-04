@@ -1,7 +1,6 @@
 openapi: 3.0.0
 info:
-  description: "Вступительное задание в Летнюю Школу Бэкенд Разработки Яндекса 2022"
-  title: Mega Market Open API
+  title: Hyper Market API
   version: "1.0"
 paths:
   /imports:
